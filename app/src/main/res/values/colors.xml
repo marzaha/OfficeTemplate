@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <!-- app 自定义颜色 -->
+    <!-- 主题蓝色-->
+    <color name="app_color_blue">#163F98</color>
+    <!-- 深蓝蓝-->
+    <color name="app_color_dark_blue">#496BB5</color>
+    <!-- 背景灰色 加载圈用 -->
+    <color name="app_color_bg_gray">#efeff4</color>
+    <!-- 黑色 非纯黑-->
+    <color name="app_color_black">#444444</color>
+    <!-- 深灰-->
+    <color name="app_color_dark_gray">#8e8e8e</color>
+    <!-- 浅灰-->
+    <color name="app_color_light_gray">#cccccc</color>
+    <!-- 白色-->
+    <color name="app_color_white">#ffffff</color>
+    <!-- 红色-->
+    <color name="app_color_red">#f94a44</color>
+    <!-- 黄色 -->
+    <color name="app_color_yellow">#FFED79</color>
+    <!-- 加载框透明背景色 -->
+    <color name="app_loading_dialog_bg">#5c0a0a0a</color>
+</resources>
