@@ -1,3 +1,3 @@
 # Poi-Demo
 
-用于Android应用生成office文档
+Poi create docx by office template, replace some string.
